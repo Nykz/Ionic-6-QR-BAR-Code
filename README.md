@@ -1,2 +1,2 @@
-# Ionic 6 QR BAR Code
- QR & Bar Code Generate & Scan - Ionic 6 Angular | Part 2 - BAR Code (Capacitor & Cordova Plugins)
+# Ionic 6 qrcode
+ Ionic 6 Angular - QR Code & Bar Code Generator & Scanner | Part 1 - QR Code
